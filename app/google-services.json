@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "700494736149",
+    "firebase_url": "https://veritabani-a5785.firebaseio.com",
+    "project_id": "veritabani-a5785",
+    "storage_bucket": "veritabani-a5785.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700494736149:android:70033dec61e568d8",
+        "android_client_info": {
+          "package_name": "com.example.yazlab3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700494736149-kccfc54tmvp362bacbolc36260btmqst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcwUrdDJTBnEOJdZ7cnn0pM3X5xBzORGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700494736149-kccfc54tmvp362bacbolc36260btmqst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
